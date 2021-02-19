@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DECENTGroup-decent-wallet-android-2da277910baf/DECENTGroup-decent-wallet-android-2da277910baf.iml" filepath="$PROJECT_DIR$/DECENTGroup-decent-wallet-android-2da277910baf/DECENTGroup-decent-wallet-android-2da277910baf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlin_dart/android/app/src/debug/debug.iml" filepath="$PROJECT_DIR$/kotlin_dart/android/app/src/debug/debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlin_dart/kotlin_dart.iml" filepath="$PROJECT_DIR$/kotlin_dart/kotlin_dart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlin_dart/android/app/src/profile/profile.iml" filepath="$PROJECT_DIR$/kotlin_dart/android/app/src/profile/profile.iml" />
+    </modules>
+  </component>
+</project>
